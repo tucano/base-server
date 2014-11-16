@@ -1,9 +1,15 @@
 base-server Cookbook
 ====================
-TODO: TEST Enter the cookbook description here.
 
-e.g.
-This cookbook makes your favorite breakfast sandwich.
+Tucano base server configuration.
+
+Includes:
+
+- vim
+- shell
+- ssh_banner
+- steroids
+
 
 Requirements
 ------------
@@ -65,4 +71,4 @@ e.g.
 
 License and Authors
 -------------------
-Authors: TODO: List authors
+Authors: davide.rambaldi@gmail.com
